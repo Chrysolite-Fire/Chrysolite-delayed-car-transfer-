@@ -11,6 +11,12 @@ This project outlines:
   + Delayed analysis and reporting
   + Communication platforms
 
+**methodology**
+  + **Requirements Gathering and Analysis:** Stakeholder Consultation, Data Collection, Use Case Development.
+  + **System Design:** Architecture Planning, Database Design, Notification Mechanism.
+  + **Testing and Quality Assurance:** Unit Testing, System Testing, User Acceptance Testing.
+  + **Monitoring and Evaluation:** Continuous Monitoring, Data Analytics, Customer Feedback.
+
 
 
 
