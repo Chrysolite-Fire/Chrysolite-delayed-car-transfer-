@@ -17,8 +17,9 @@ This project outlines:
   + **Testing and Quality Assurance:** Unit Testing, System Testing, User Acceptance Testing.
   + **Monitoring and Evaluation:** Continuous Monitoring, Data Analytics, Customer Feedback.
 ---
-
-
+**Data Source**
+The data set was provided by ChatGPT, which was copied and paste for analysis.
+---
 
 
 
