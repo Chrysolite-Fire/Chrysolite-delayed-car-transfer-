@@ -27,7 +27,7 @@ The data set was provided by ChatGPT, which was copied and paste for analysis.
 ---
 **Exploratory Data Analysis (EDA)**
 In this EDA phase, we will ensure this project involves analyzing and understanding the dataset related to car transfers and the delays that occur throughout the transportation process. The goal of EDA is to identify patterns, detect anomalies, and uncover relationships between different variables that may contribute to delays.
-
+---
 
 
 
