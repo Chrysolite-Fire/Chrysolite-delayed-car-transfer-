@@ -20,6 +20,14 @@ This project outlines:
 **Data Source**
 The data set was provided by ChatGPT, which was copied and paste for analysis.
 ---
+**Tools**
+  + **GPS Tracking and Fleet Management Tools:** To track the real-time location of vehicles and transporters during transit.
+  + **Vehicle Management Systems:** To manage vehicle information, track vehicle availability, and handle inventory for car dealership.
+  + **Power BI:** A business analytics tool that provides visual reports and dashboards on the performance of car transfers.
+---
+**Exploratory Data Analysis (EDA)**
+In this EDA phase, we will ensure this project involves analyzing and understanding the dataset related to car transfers and the delays that occur throughout the transportation process. The goal of EDA is to identify patterns, detect anomalies, and uncover relationships between different variables that may contribute to delays.
+
 
 
 
